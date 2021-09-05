@@ -16,8 +16,10 @@
 git clone https://github.com/vtpl1/deeperlook_app_template.git
 ```
 
-### Open in VS code
+### Open in VS code and develop
 The VS code has required devcontainer ready for development of GPU based algorithms
+![Development](https://github.com/vtpl1/deeperlook_app_template/blob/main/images/development.gif)
+
 
 ## Run the developed appication in development environment
 Run the developed algorithm using the following command
@@ -34,8 +36,10 @@ python3 setup.py bdist_wheel
 ```
 
 ### Upload the wheel using the DeeperLook application uploader
-![demo image](https://github.com/vtpl1/deeperlook_app_template/blob/main/images/output.gif)
-### Use the application from the Videonetics IVMS
+![Deploy](https://github.com/vtpl1/deeperlook_app_template/blob/main/images/deploy.gif)
+
+### Use the application in production
+![Result](https://github.com/vtpl1/deeperlook_app_template/blob/main/images/result.gif)
 
 ## License
 [MIT License](https://github.com/vtpl1/deeperlook_app_template/blob/main/LICENSE)
