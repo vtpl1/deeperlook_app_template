@@ -34,7 +34,7 @@ python3 setup.py bdist_wheel
 ```
 
 ### Upload the wheel using the DeeperLook application uploader
-
+![demo image](https://github.com/vtpl1/deeperlook_app_template/blob/main/images/output.gif)
 ### Use the application from the Videonetics IVMS
 
 ## License
