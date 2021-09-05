@@ -39,7 +39,7 @@ python3 setup.py bdist_wheel
 ![Deploy](https://github.com/vtpl1/deeperlook_app_template/blob/main/images/deploy.gif)
 
 ### Use the application in production
-![Result](https://github.com/vtpl1/deeperlook_app_template/blob/main/images/result.gif)
+![Results](https://github.com/vtpl1/deeperlook_app_template/blob/main/images/results.gif)
 
 ## License
 [MIT License](https://github.com/vtpl1/deeperlook_app_template/blob/main/LICENSE)
